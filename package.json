@@ -1,0 +1,22 @@
+{
+  "name": "simula-documentation",
+  "version": "1.0.0",
+  "description": "simulando repositório de documentação",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamonex/simula-documentation.git"
+  },
+  "author": "Pedro Chamone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamonex/simula-documentation/issues"
+  },
+  "homepage": "https://github.com/Chamonex/simula-documentation#readme"
+}
