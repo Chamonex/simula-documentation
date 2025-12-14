@@ -1,0 +1,10 @@
+name: Deploy Documentation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    uses: Chamonex/workflows/.github/workflows/cd-documentation.yaml@main
